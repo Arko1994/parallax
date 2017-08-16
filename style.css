@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia;
+}
+article main {
+    width: 920px;
+    margin: 0 auto;
+}
+
+article header {
+    width: 100%;
+    height: 150px;
+    background-color: #F3F3F3;
+    position: relative;
+
+}
+article header h1 {
+    margin: 0px;
+    padding: 0px;
+    width: 920px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 50%;
+    margin-left: -460px;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.kvadratik {
+    width: 30px;
+    height: 30px;
+    background: black;
+    position: absolute;
+}
+
+.k1 {
+    left: 540px;
+    top: 20px;
+} 
+.k2 {
+    left: 230px;
+    top: 110px;
+}
+.k3 {
+    right: 500px;
+    top: 80px;
+}
+.k4 {
+    right: 340px;
+    top: 20px;
+}
+.k5 {
+    right: 90px;
+    top: 90px;
+}
